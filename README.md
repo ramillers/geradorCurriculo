@@ -1,5 +1,3 @@
-# geradorCurriculo
-Um site simples (e grátis) para gerar currículos de forma eficiente. (EM andamento) 
 
 # geradorCurriculo
 
